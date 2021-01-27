@@ -18,4 +18,6 @@ This research is conducted to find out the patterns and insights of Customer beh
 
 5. Cluster Heatmaps
  [Link](https://www.youtube.com/watch?v=edFCZkbEVoI)
-
+ (https://www.youtube.com/watch?v=imtvI5CQLm4)
+ [Link 2](https://towardsdatascience.com/heatmap-basics-with-pythons-seaborn-fb92ea280a6c)
+ [Link 3](https://stats.stackexchange.com/questions/89679/what-do-you-do-when-theres-no-elbow-point-for-kmeans-clustering)
